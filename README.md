@@ -31,3 +31,10 @@ Hay varias maneras de usarlo:
 - Y una vez generada una base de datos, se puede usar el script **main.py** para que gestione los datos de la misma y los ordene de manera flexible y adecuada a las necesidades del cliente.
 
 Pero antes de usar nada, deberemos configurar el script en base a nuestras necesidades desde el archivo **config.json**, en el cual podremos configurar de que manera el script principal cargará, ordenará y preparará el análisis de la base de datos entregada.
+
+Y los tipos de gráficos y archivos que se pueden guardar son:
+
+- Archivos: csv,json y txt.
+- Gráficos: pastel,barras y lineas.
+
+Esto se debe modificar en el **config.json**
