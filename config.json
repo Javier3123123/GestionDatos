@@ -1,5 +1,5 @@
 {
-    "archivo_json": "test.json",
+    "archivo_json": "lista.json",
     "peso_maximo": 20,
     "guardar_resultado": true,
     "guardar_como": "csv",
