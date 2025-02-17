@@ -1,0 +1,12 @@
+{
+    "archivo_json": "test.json",
+    "peso_maximo": 20,
+    "guardar_resultado": true,
+    "guardar_como": "csv",
+    "debug": false,
+    "guardar_errores": true,
+    "medida": "KG",
+    "generar_grafico": true,
+    "grafico_tipo": "pastel"
+}
+  

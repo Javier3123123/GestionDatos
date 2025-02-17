@@ -1,0 +1,56 @@
+{
+    "camisa": [
+        {
+            "Peso": 0.3,
+            "Profit": 25
+        }
+    ],
+    "pantalon": [
+        {
+            "Peso": 0.5,
+            "Profit": 40
+        }
+    ],
+    "zapatos": [
+        {
+            "Peso": 1.2,
+            "Profit": 50
+        }
+    ],
+    "chaqueta": [
+        {
+            "Peso": 1.0,
+            "Profit": 80
+        }
+    ],
+    "mochila": [
+        {
+            "Peso": 0.8,
+            "Profit": 120
+        }
+    ],
+    "gorro": [
+        {
+            "Peso": 0.1,
+            "Profit": 10
+        }
+    ],
+    "guantes": [
+        {
+            "Peso": 0.2,
+            "Profit": 15
+        }
+    ],
+    "bufanda": [
+        {
+            "Peso": 0.3,
+            "Profit": 18
+        }
+    ],
+    "botas": [
+        {
+            "Peso": 0.15,
+            "Profit": 150
+        }
+    ]
+}
