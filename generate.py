@@ -1,6 +1,7 @@
 import json
 import os
 from colorama import Fore, Style, init
+import sys
 
 # Inicialización de colorama
 init(autoreset=True)
@@ -68,7 +69,7 @@ class Main:
 
         ask_name = input(f"{Fore.YELLOW}Con qué nombre quieres guardar la base de datos? -> {Fore.RESET}")
         self.save_data(ask_name)
-        break
+        sys.exit()
 
     def run(self):
         while True:
